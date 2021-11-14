@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alpknx Alexander Perezhogin
-- 👀 I’m interested in Backend 
-- 🌱 I’m currently learning Java/Kotli, Spring, Postgresql, Spring Data Jdbc, GRPC
-- 💞️ I’m looking for a role  as Intern/Junior Java/Kotlin Developer...
+- 👀 I’m interested in Frontend
+- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 💞️ I’m looking for a role  as Intern Frontend Developer...
 - 📫 How to reach me alpknx@gmail.com
 
 <!---
