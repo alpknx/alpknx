@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alpknx Alexander Perezhogin
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Vue.js
 - 💞️ I’m looking for a role  as Intern Frontend Developer...
 - 📫 How to reach me alpknx@gmail.com
 
