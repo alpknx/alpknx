@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alpknx Alexander Perezhogin
+- 👋 Hi, I’m @alpknx Alexander
 - 👀 I’m interested in Frontend
 - 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, React, Redux
 - 💞️ I’m looking for a role  as Junior+/Middle Frontend Developer...
